@@ -1,0 +1,57 @@
+
+/* *********************************FONTS********************************* */
+
+/* font-family: "Poiret One", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+/* font-family: "Comfortaa", sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Poiret+One&display=swap');
+
+// *********************************ELEMENTS SCSS*********************************
+
+@import "elementsSCSS.scss";
+
+//*********************************IMPORT STYLES*********************************
+
+@import "nullstyle.scss";
+
+/* *********************************GENERAL STYLES********************************* */
+
+@import "general.scss";
+
+/* *********************************HEADER STYLES********************************* */
+
+@import "header.scss";
+
+/* *********************************WELCOME STYLES********************************* */
+
+@import "welcome.scss";
+
+/* *********************************ADVANTAGES STYLE********************************* */
+
+@import "advantages.scss";
+
+/* *********************************PRODUCTS STYLE********************************* */
+
+@import "products.scss";
+
+/* *********************************INFOTMATION STYLE********************************* */
+
+@import "information.scss";
+
+/* *********************************FOOTER STYLE********************************* */
+
+@import "footer.scss";
+
+/* *********************************ABOUT US PAGE STYLE********************************* */
+
+@import "aboutus.scss";
+
+/* *********************************CONTACTS PAGE STYLE********************************* */
+
+@import "contacts.scss";
+
+/* *********************************ERROR 404 STYLE********************************* */
+
+@import "404.scss";
+

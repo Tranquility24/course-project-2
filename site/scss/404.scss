@@ -1,0 +1,34 @@
+.error {
+
+
+
+    &__container {
+
+        @extend %font-first;
+
+        display: flex;
+
+        flex-direction: column;
+
+        align-items: center;
+        justify-content: center;
+
+        margin-top: 200px;
+        margin-bottom: 200px;
+
+    }
+
+    &__title {
+
+
+        font-size: 64px;
+        
+        
+    }
+
+    &__desc {
+
+        font-size: 48px;
+
+    }
+}
